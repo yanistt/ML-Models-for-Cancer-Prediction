@@ -1,0 +1,6 @@
+# CancerPrediction
+As part of this project, we were tasked with developing a machine learning model, which allows us to acquire new technical skills such as learning and mastering libraries and frameworks, innovating, and effectively leveraging data.
+
+For our project, we chose to work on breast cancer predictions, as such a model can have a significant impact in the medical field. For example, it can enable the early detection of breast cancer, thereby increasing the chances of successful treatment. It can also contribute to optimizing the use of medical resources by identifying cases with a high risk of breast cancer, allowing doctors to prioritize patients for further examinations. Such a model can even be used for research and the development of new diagnostic and treatment methods. However, it's important to note that the model we will construct will serve as a simple example of breast cancer prediction models. To achieve reliable and accurate results, high-quality data and advanced technical skills are necessary.
+
+For this project, we worked with a labeled dataset that we found online. The dataset contained results from various tests conducted on different individuals, along with their diagnostic outcomes.
